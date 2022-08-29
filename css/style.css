@@ -10,3 +10,21 @@ body{
     color:#fff !important;
 
 }
+
+.bi{
+    color:#fff;
+}
+
+#hamburg{
+    border-radius: 0.1rem;
+    background-color: #fff!important;
+}
+
+.na-toggler{
+    border-radius: 2rem;
+}
+
+.carousel-inner{
+    position: relative;
+    overflow: visible!important;
+}
